@@ -4,9 +4,11 @@
 dans la branche main.
 
 Instructions
- - 1 personne du groupe fork ce dépôt principal
- - la personne qui crée le fork doit ajouter ces collègues comme collaborateur du dépôt
- - les collaborateurs récupèrent le dépôt forké
+ - 1 personne du groupe utilise ce dépôt principal comme template
+<img width="1748" height="301" alt="use-template-repository" src="https://github.com/user-attachments/assets/2b24d1e8-6bdb-4170-8c29-44c5e7c5c1a3" />
+
+ - la personne qui crée le dépôt à partir du template doit ajouter ces collègues comme collaborateur du dépôt
+ - les collaborateurs récupèrent le dépôt nouvellement créé
  - chaque collaborateur crée une branche au format `prenom-nom` à partir du commit initial
  - à partir de sa branche `prenom-nom`, chaque collaborateur va ajouter son prénom/nom à la liste des auteurs dans le fichier `authors.txt` dans un commit
  - chaque collaborateur propage sa branche `prenom-nom` sur le dépôt distant
